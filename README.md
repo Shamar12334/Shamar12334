@@ -2,7 +2,7 @@
 
 ## 👋 Hey, I'm Shamar Weekes!
 
-Aspiring Software Engineer | Passionate about lots of things! Just coding for fun!  
+ Open minded Computer Science student| Passionate about learning new things! Building my skillset and diversifying my portfolio is my motive!  
 💻 Currently exploring **Programming languages, AI / Machine Learning / API/ Web and mobile apllications  
 🎯 My goal is to **Learn and grow within the technological field of computer science**  
 
@@ -43,5 +43,5 @@ Aspiring Software Engineer | Passionate about lots of things! Just coding for fu
 
 ## 📈 GitHub Stats
 
-![George's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shamar12334&show_icons=true&theme=synthwave)  
+![Shamar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shamar12334&show_icons=true&theme=synthwave)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shamar12334&layout=compact&theme=radical)
