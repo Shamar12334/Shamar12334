@@ -88,7 +88,7 @@ Data Structures & Algorithms • Machine Learning • Cybersecurity • Data Ana
 ---
 
 ## 🌐 Connect with Me
-📧 **Email:** [shamarweekes@example.com](mailto:shamarweekes@example.com)  
+📧 **Email:** [shamarweekes@example.com](mailto:weekesshamar38@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/shamarweekes](https://linkedin.com/in/shamarweekes)  
 🐙 **GitHub:** [github.com/Shamar12334](https://github.com/Shamar12334)
 
