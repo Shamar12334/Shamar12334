@@ -54,7 +54,8 @@ Open-minded Computer Science student | Passionate about learning new things! Bui
 
 ---
 
-## 📈 GitHub Stats
+## 📚 Current Focus
+🚀 Learning full-stack development  
+🔐 Working with SSH, Git, and deployment workflows  
+🧠 Building real-world Flask and React projects  
 
-![Shamar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shamar12334&show_icons=true&theme=synthwave)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shamar12334&layout=compact&theme=radical)
