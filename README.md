@@ -1,61 +1,101 @@
-## 👋 Hey, I'm Shamar Weekes!
+# 👋 Hey, I'm Shamar Weekes!
 
-Open-minded Computer Science student | Passionate about learning new things! Building my skillset and diversifying my portfolio is my motive!  
-💻 Currently exploring **Programming languages, AI / Machine Learning / API/ Web and mobile applications**  
-🎯 My goal is to **Learn and grow within the technological field of computer science**  
-
----
-
-## 🚀 Tech Stack
-
-<div align="left">
-  <img src="https://github.com/Shamar12334/Shamar12334/blob/main/img/felixthecat.gif?raw=true" alt="cat" width="900" height="50">
-</div>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+🎓 **Computer Science Student** at **Florida International University (FIU)** — passionate about building impactful software and continuously expanding my technical skill set.  
+💻 Currently exploring **AI, Cybersecurity, Web & Mobile Development, and Cloud Technologies.**  
+🚀 My goal is to **innovate, learn, and contribute to the world of technology through real-world applications and research.**
 
 ---
 
-## 🛠️ Tools & DevOps
+## 🎓 Education
 
-<div align="left">
-  <img src="https://github.com/Shamar12334/Shamar12334/blob/main/img/felixthecat.gif?raw=true" alt="cat" width="450" height="50">
-</div>
+**Bachelor of Science in Computer Science**  
+*Florida International University (FIU), Miami, FL*  
+📅 Expected Graduation: **December 2026**
+
+**Relevant Coursework:**  
+Data Structures & Algorithms • Machine Learning • Cybersecurity • Data Analysis • Cloud Computing • Agile Methods • Encryption • Networking • Network Security
+
+---
+
+## 💡 Technical Skills
+
+**Languages:**  
+`Java` • `Python` • `JavaScript` • `C` • `C++` • `C#` • `Swift` • `SQL` • `HTML/CSS` • `Shell`
+
+**Frameworks & Libraries:**  
+`React` • `Node.js` • `Flask` • `scikit-learn` • `TensorFlow` • `Tailwind CSS`
+
+**Databases & Tools:**  
+`MongoDB` • `Firebase` • `Git` • `Docker` • `AWS`
+
+---
+
+## 🧠 Projects
+
+### 🧩 Vertical Mass Measuring Device (SEDFIU)
+*January 2025 – April 2025 | Miami, FL*  
+- Programmed **microcontrollers (C/C++)** to control a magneto-motorized platform.  
+- Collaborated with **9+ team members** on hardware integration and sensor communication.  
+- Achieved **100% accuracy** in acceleration calculations during test phases.
+
+---
+
+### 🎬 CinePals (iOS Application)
+*January 2025 – April 2025 | Init FIU*  
+- Developed a **social movie discovery app** using **SwiftUI**, **Firebase**, and **TMDb API**.  
+- Improved app stability by **30%** through debugging and architecture optimization.  
+- Led **GitHub collaboration and version control training** for 7+ teammates.  
+
+---
+
+### 🔐 Password Manager
+*January 2025 – March 2025 | Miami, FL*  
+- Built a **secure web app** using **React, Node.js, and MongoDB**.  
+- Implemented **AES-256 encryption** for password storage.  
+- Integrated an **AI chatbot** (OpenAI API) for interactive password management.  
+- Led a **4+ person team**, ensuring timely delivery of all project goals.  
+
+---
+
+## 🔬 Research Experience
+
+**Independent Researcher | Detecting Phishing URLs with Machine Learning**  
+*September 2025 – Present | Miami, FL*  
+- Preprocessing and analyzing phishing datasets using Python (pandas, NumPy).  
+- Training models including **SVM**, **Random Forest**, and **Logistic Regression**.  
+- Achieved measurable accuracy in detecting phishing patterns.  
+- Aiming to publish findings to advance cybersecurity and threat detection.
+
+---
+
+## ⚙️ Tools & DevOps
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 🏆 Work Experience
-
-**Independent Researcher**  
-*Independent Research | September 2025 – Present | Miami, FL*  
-- Conducted research in AI, Machine Learning, and Software Development  
-- Built prototypes and implemented small-scale projects to test ideas  
-- Strengthened skills in debugging, data analysis, and backend architecture  
+## 🤖 Interests
+- Artificial Intelligence & Machine Learning  
+- Cybersecurity & Network Defense  
+- API Design & Backend Systems  
+- Mobile & Web Development  
+- Cloud Architecture & DevOps
 
 ---
 
-## 📚 Current Focus
-🚀 Learning full-stack development  
-🔐 Working with SSH, Git, and deployment workflows  
-🧠 Building real-world Flask and React projects  
+## 🌐 Connect with Me
+📧 **Email:** [shamarweekes@example.com](mailto:shamarweekes@example.com)  
+💼 **LinkedIn:** [linkedin.com/in/shamarweekes](https://linkedin.com/in/shamarweekes)  
+🐙 **GitHub:** [github.com/Shamar12334](https://github.com/Shamar12334)
 
+---
+
+> _“The best way to predict the future is to create it.”_ — Peter Drucker
+
+<div align="center">
+  <img src="https://github.com/Shamar12334/Shamar12334/blob/main/img/felixthecat.gif?raw=true" alt="cat" width="900" height="50">
+</div>
