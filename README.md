@@ -26,7 +26,10 @@ Data Structures & Algorithms • Machine Learning • Cybersecurity • Data Ana
 `React` • `Node.js` • `Flask` • `scikit-learn` • `TensorFlow` • `Tailwind CSS`
 
 **Databases & Tools:**  
-`MongoDB` • `Firebase` • `Git` • `Docker` • `AWS`
+`MongoDB` • `Firebase` • `Git` • `Docker` • `AWS` • `Kubernetes` • `VPN` • `VPS`
+
+**Other Areas:**  
+Networking • Automation • CI/CD • Agile Scrum • MVC • Spring Boot
 
 ---
 
@@ -68,6 +71,43 @@ Data Structures & Algorithms • Machine Learning • Cybersecurity • Data Ana
 
 ---
 
+## 💼 Professional Experience
+
+### Application & Middleware Support Engineer
+- **5+ years of experience** supporting and administering large-scale, mission-critical middleware infrastructures with **IBM WebSphere**, **Oracle WebLogic**, and **RedHat JBoss**.  
+- Skilled in **IBM X Series DataPower appliances** support and administration.  
+- Experienced with **production release and support services**, including shift and weekend rotations.  
+- Deep understanding of **application environments**, their components, and the **Software Development Lifecycle (SDLC)**.  
+- Strong **communication skills** and experience leading **triage handling** during incident resolution.  
+- Excellent **collaboration and coordination** across stakeholders and partner teams.  
+- Familiar with **extended workdays** during patching and release windows.
+
+---
+
+## 🧰 Desired Qualifications & Expertise
+
+- **Automation Scripting:** Unix Shell, Perl, Jython  
+- **DevOps Tools:** Ansible (Ansible Tower preferred), Docker, CI/CD pipelines  
+- **Practices:** Agile/Scrum, Continuous Integration, Continuous Deployment  
+- **Additional Skills:** Networking, VPN/VPS setup, Spring Boot, MVC  
+
+---
+
+## 🧩 Core Competencies
+
+- Analytical Thinking  
+- Application Development  
+- Automation & Production Support  
+- Risk Management  
+- Adaptability & Business Acumen  
+- DevOps Practices & Solution Delivery  
+- Solution Design & Architecture  
+- Collaboration & Innovative Thinking  
+- Stakeholder Management  
+- Technical Strategy Development  
+
+---
+
 ## ⚙️ Tools & DevOps
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -75,6 +115,8 @@ Data Structures & Algorithms • Machine Learning • Cybersecurity • Data Ana
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ---
 
@@ -83,7 +125,7 @@ Data Structures & Algorithms • Machine Learning • Cybersecurity • Data Ana
 - Cybersecurity & Network Defense  
 - API Design & Backend Systems  
 - Mobile & Web Development  
-- Cloud Architecture & DevOps
+- Cloud Architecture & DevOps  
 
 ---
 
