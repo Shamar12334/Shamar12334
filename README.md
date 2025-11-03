@@ -131,8 +131,8 @@ Networking • Automation • CI/CD • Agile Scrum • MVC • Spring Boot
 
 ## 🌐 Connect with Me
 📧 **Email:** [shamar](mailto:weekesshamar38@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/shamarweekes](https://linkedin.com/in/shamarweekes)  
-🐙 **GitHub:** [github.com/Shamar12334](https://github.com/Shamar12334)
+💼 **LinkedIn:** [linkedIn](https://linkedin.com/in/shamarweekes)  
+🐙 **GitHub:** [github](https://github.com/Shamar12334)
 
 ---
 
