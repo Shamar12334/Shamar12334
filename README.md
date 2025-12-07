@@ -1,23 +1,23 @@
-# 👋 Hey, I'm Shamar Weekes!
+#  Hey, I'm Shamar Weekes!
 
-🎓 **Computer Science Student** at **Florida International University (FIU)** — passionate about building impactful software and continuously expanding my technical skill set.  
-💻 Currently exploring **AI, Cybersecurity, Web & Mobile Development, and Cloud Technologies.**  
-🚀 My goal is to **innovate, learn, and contribute to the world of technology through real-world applications and research.**
+ **Computer Science Student** at **Florida International University (FIU)** — passionate about building impactful software and continuously expanding my technical skill set.  
+ Currently exploring **AI, Cybersecurity, Web & Mobile Development, and Cloud Technologies.**  
+My goal is to **innovate, learn, and contribute to the world of technology through real-world applications and research.**
 
 ---
 
-## 🎓 Education
+##  Education
 
 **Bachelor of Science in Computer Science**  
 *Florida International University (FIU), Miami, FL*  
-📅 Expected Graduation: **December 2026**
+ Expected Graduation: **December 2026**
 
 **Relevant Coursework:**  
 Data Structures & Algorithms • Machine Learning • Cybersecurity • Data Analysis • Cloud Computing • Agile Methods • Encryption • Networking • Network Security
 
 ---
 
-## 💡 Technical Skills
+##  Technical Skills
 
 **Languages:**  
 `Java` • `Python` • `JavaScript` • `C` • `C++` • `C#` • `Swift` • `SQL` • `HTML/CSS` • `Shell`
@@ -33,9 +33,9 @@ Networking • Automation • CI/CD • Agile Scrum • MVC • Spring Boot
 
 ---
 
-## 🧠 Projects
+##  Projects
 
-### 🧩 Vertical Mass Measuring Device (SEDFIU)
+###  Vertical Mass Measuring Device (SEDFIU)
 *January 2025 – April 2025 | Miami, FL*  
 - Programmed **microcontrollers (C/C++)** to control a magneto-motorized platform.  
 - Collaborated with **9+ team members** on hardware integration and sensor communication.  
@@ -43,7 +43,7 @@ Networking • Automation • CI/CD • Agile Scrum • MVC • Spring Boot
 
 ---
 
-### 🎬 CinePals (iOS Application)
+### CinePals (iOS Application)
 *January 2025 – April 2025 | Init FIU*  
 - Developed a **social movie discovery app** using **SwiftUI**, **Firebase**, and **TMDb API**.  
 - Improved app stability by **30%** through debugging and architecture optimization.  
@@ -51,7 +51,7 @@ Networking • Automation • CI/CD • Agile Scrum • MVC • Spring Boot
 
 ---
 
-### 🔐 Password Manager
+###  Password Manager
 *January 2025 – March 2025 | Miami, FL*  
 - Built a **secure web app** using **React, Node.js, and MongoDB**.  
 - Implemented **AES-256 encryption** for password storage.  
@@ -60,7 +60,7 @@ Networking • Automation • CI/CD • Agile Scrum • MVC • Spring Boot
 
 ---
 
-## 🔬 Research Experience
+## Research Experience
 
 **Independent Researcher | Detecting Phishing URLs with Machine Learning**  
 *September 2025 – Present | Miami, FL*  
@@ -71,7 +71,7 @@ Networking • Automation • CI/CD • Agile Scrum • MVC • Spring Boot
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 ### Application & Middleware Support Engineer
 - **5+ years of experience** supporting and administering large-scale, mission-critical middleware infrastructures with **IBM WebSphere**, **Oracle WebLogic**, and **RedHat JBoss**.  
@@ -84,7 +84,7 @@ Networking • Automation • CI/CD • Agile Scrum • MVC • Spring Boot
 
 ---
 
-## 🧰 Desired Qualifications & Expertise
+## Desired Qualifications & Expertise
 
 - **Automation Scripting:** Unix Shell, Perl, Jython  
 - **DevOps Tools:** Ansible (Ansible Tower preferred), Docker, CI/CD pipelines  
@@ -93,7 +93,7 @@ Networking • Automation • CI/CD • Agile Scrum • MVC • Spring Boot
 
 ---
 
-## 🧩 Core Competencies
+## Core Competencies
 
 - Analytical Thinking  
 - Application Development  
@@ -108,7 +108,7 @@ Networking • Automation • CI/CD • Agile Scrum • MVC • Spring Boot
 
 ---
 
-## ⚙️ Tools & DevOps
+##  Tools & DevOps
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -130,9 +130,9 @@ Networking • Automation • CI/CD • Agile Scrum • MVC • Spring Boot
 ---
 
 ## 🌐 Connect with Me
-📧 **Email:** [shamar](mailto:weekesshamar38@gmail.com)  
-💼 **LinkedIn:** [linkedIn](https://linkedin.com/in/shamarweekes)  
-🐙 **GitHub:** [github](https://github.com/Shamar12334)
+ **Email:** [shamar](mailto:weekesshamar38@gmail.com)  
+ **LinkedIn:** [linkedIn](https://linkedin.com/in/shamarweekes)  
+**GitHub:** [github](https://github.com/Shamar12334)
 
 ---
 
